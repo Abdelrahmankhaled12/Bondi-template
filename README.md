@@ -1,7 +1,7 @@
 # Bondi-template
 ## It's only one page on the site , Responsive Design.
 ### tools:
-Ht3ml CSS Js
+Html CSS Js
 ### Library:
 WOW Bootstrap5
 
